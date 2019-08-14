@@ -20,7 +20,7 @@ namespace Lab13
             }
             else if (pick == 2)
             {
-                return Enum.Rock.ToString();
+                return Enum.Paper.ToString();
             }
             else if(pick==3)
             {
